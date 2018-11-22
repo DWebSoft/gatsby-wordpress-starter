@@ -1,0 +1,12 @@
+.post_title{
+    margin-bottom: 10px;
+}
+
+.post_date{
+    color: #bbb;
+}
+
+.post_link{
+    text-decoration: none;
+    color: inherit;
+}
