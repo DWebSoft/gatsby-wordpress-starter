@@ -11,6 +11,7 @@ Kick off your project with this wordpress boilerplate for gatsby. This starter s
 
 Feel free to use it and bulid your awesome blog on top of it. In case of any help you can drop me an email at contact@durgeshtayade.com,
 
+Demo: http://durgesh-wordpress.surge.sh/
 
 ## 🚀 Quick start
 
@@ -24,8 +25,8 @@ Feel free to use it and bulid your awesome blog on top of it. In case of any hel
     baseUrl: 'localhost/wordpress-latest/'
     ```
 
-    2. Now we need to authenticate with our WordPress website. Install "JWT Authentication for WP REST API" (https://wordpress.org/plugins/jwt-authentication-for-wp-rest-api/) plugin.
-    2. open '.env.development' file and replace your WordPress username and password.
+    2. Now we need to authenticate with your WordPress website. Install "JWT Authentication for WP REST API" (https://wordpress.org/plugins/jwt-authentication-for-wp-rest-api/) plugin.
+    2. Open '.env.development' file and replace your WordPress username and password.
     2. That's it for setup. It should work.
 
 1.  **Start developing.**
