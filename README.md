@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby's WordPress starter
+  Gatsby WordPress Starter Boilerplate
 </h1>
 
 Kick off your project with this wordpress boilerplate for gatsby. This starter ships with basic setup of a WordPress blog. Just plug your Wordpress credentials and it will pull data from it. 
